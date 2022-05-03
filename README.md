@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harimangal Pandey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"> Front-End/UI-UX Developer from Bengaluru, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pananon&label=Profile%20views&color=0e75b6&style=flat" alt="pananon" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/harimangalp" target="blank"><img src="https://img.shields.io/twitter/follow/harimangalp?logo=twitter&style=for-the-badge" alt="harimangalp" /></a> </p>
 
-- 🔭 I’m currently working on **reactjs.**
+- 🔭 I’m currently working on **React.js.** ❤️
 
 - 🌱 I’m currently learning **AntD, MapBox, UI/UX**
 
-- 👯 I’m looking to collaborate on **mapbox.**
+- 👯 I’m looking to collaborate on **Mapbox library**
 
-- 💬 Ask me about **react, angular, ds & algo.**
+- 💬 Ask me about **React, Angular, DS & Algo.**
 
 - 📫 How to reach me **mangalpandeyop@gmail.com**
 
