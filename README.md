@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harimangal Pandey</h1>
 <h3 align="center"> Front-End/UI-UX Developer from Bengaluru, India</h3>
 
-- 🔭 I’m currently working on **React.js/ Angular/ Remix/ ReChart.js/ Spline 3D.** ❤️
+- 🔭 I’m currently working on **React.js/ Angular/ Remix/ ReChart.js/ Spline 3D. | DSA** ❤️
 
 - 🌱 I’m currently learning **Spline 3d/ AntD, MapBox, UI/UX**
 
