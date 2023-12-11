@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mangalpandeyop@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://3d-divinecoded.netlify.app)
+- 📄 Know about my experiences [My Portfolio](https://divinecoded-3d.netlify.app)
 
 - ⚡ Fun fact **I write descriptive poems. :)**
 
