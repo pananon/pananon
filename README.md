@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Angular, DS & Algo.**
 
-- 📫 How to reach me **harimangal.pandey@gmail.com**
+- 📫 How to reach me **harimangal.pandey@outlook.com**
 
 - 📄 Know about my experiences [My Portfolio](https://divinecoded-3d.netlify.app)
 
