@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **React.js/ Angular/ Redux/ Remix/ ReChart.js/ Spline 3D. | DSA** ❤️
 
-- 🌱 I’m currently learning **Spline 3d/ AntD, MapBox, UI/UX**
+- 🌱 I’m currently learning **Spline 3d/ AntD, MapBox, UI/UX Designer**
 
 - 👯 I’m looking to collaborate on **Spline 3d/ Mapbox library**
 
