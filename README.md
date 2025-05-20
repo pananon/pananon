@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, Spline 3d/ AntD, MapBox, UI/UX Designer**
 
-- 👯 I’m looking to collaborate on **Spline 3d/ Mapbox library**
+- 👯 I’m looking to collaborate on **Spline 3d/ Mapbox library NativeBase**
 
 - 💬 Ask me about **React, Angular, DS & Algo.**
 
