@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harimangal Pandey</h1>
-<h3 align="center"> FullStack MERN/React Native Developer from Bengaluru, India</h3>
+<h1 align="center">Hi 👋, I'm Hari Mangal Pandey</h1>
+<h3 align="center"> FullStack MEA/RN/React Native Developer from Bengaluru, India</h3>
 
 - 🔭 I’m currently working on **React.js/ React Native/ Angular/ Redux/ Remix/ ReChart.js/ Spline 3D. | DSA** ❤️
 
