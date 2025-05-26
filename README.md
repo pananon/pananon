@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [My Portfolio](https://divinecoded-3d.netlify.app)
 
-- ⚡ Fun fact **I write descriptive poems :)**
+- ⚡ Fun fact **I write descriptive poems :)** when I'm not coding 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pananon&" alt="pananon" /></p>
 
