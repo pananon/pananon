@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Spline 3d/ Mapbox library NativeBase**
 
-- 💬 Ask me about **React, Angular, DS & Algo.**
+- 💬 Ask me about **React, React Native, Angular, DS & Algo.**
 
 - 📫 How to reach me **harimangal.pandey@outlook.com**
 
