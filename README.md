@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hari Mangal Pandey</h1>
 <h3 align="center"> FullStack MEA/RN/React Native Developer from Bengaluru, India</h3>
 
-- 🔭 I’m currently working  on **React.js/ React Native/ Angular/ Redux/ Remix/ ReChart.js/ Spline 3D. | DSA** ❤️
+- 🔭 I’m currently working  on **React.js/ React Native/ Angular/ Redux/ Remix/ ReChart.js/ Spline 3D, Azure| DSA** ❤️
 
 - 🌱 I’m currently learning **React Native, JS, Spline 3d/ AntD, MapBox, UI/UX Designer**
 
