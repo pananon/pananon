@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working  on **React.js/ React Native/ Angular/ Redux/ Remix/ ReChart.js/ Spline 3D, Azure| DSA** ❤️
 
-- 🌱 I’m currently learning **React Native, JS, Spline 3d/ AntD, MapBox, UI/UX Designer**
+- 🌱 I’m currently learning **React Native, JS, Spline 3d/ AntD, MapBox, UI/UX Designer/ AI/ML**
 
 - 👯 I’m looking to collaborate on **Spline 3d/ Mapbox library NativeBase**
 
