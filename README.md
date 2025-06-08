@@ -1,19 +1,25 @@
 <h1 align="center">Hi 👋, I'm Hari Mangal Pandey</h1>
 <h3 align="center"> FullStack MEA/RN/React Native Developer from Bengaluru, India</h3>
 
-- 🔭 I’m currently working  on **React.js/ React Native/ Angular/ Redux/ Remix/ ReChart.js/ Spline 3D, Azure| DSA** ❤️
+🚀 Currently Building With:
+React.js • React Native • Angular • Redux • Remix • Recharts • Spline 3D • Azure • DSA ❤️
 
-- 🌱 I’m currently learning **React Native, JS, Spline 3d/ AntD, MapBox, UI/UX Designer/ AI/ML**
+🧠 Learning & Leveling Up In:
+React Native • JavaScript Mastery • Ant Design • Mapbox • Spline 3D • UI/UX Design • AI/ML
 
-- 👯 I’m looking to collaborate on **Spline 3d/ Mapbox library NativeBase**
+🤝 Open to Collaborations On:
+Spline 3D • Mapbox Integrations • NativeBase UI Magic
 
-- 💬 Ask me about **React, React Native, Angular, Javascript, DS & Algo.**
+💬 Ask Me About:
+React • React Native • Angular • JavaScript • Data Structures & Algorithms
 
-- 📫 How to reach me **harimangal.pandey@outlook.com**
+📬 Let’s Connect:
+harimangal.pandey@outlook.com
 
-- 📄 Know about my experiences [My Portfolio](https://divinecoded-3d.netlify.app)
+🌐 My Portfolio : https://divinecoded-3d.netlify.app/
 
-- ⚡ Fun fact **I write descriptive poems :)** when I'm not coding or designing system 
+🎭 Fun Fact:
+When I’m not engineering pixels or systems, I’m probably crafting a soul-soaked poem ✍️✨
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pananon&" alt="pananon" /></p>
 
