@@ -2,7 +2,7 @@
 <h3 align="center"> FullStack MEA/RN/React Native Developer from Bengaluru, India</h3>
 
 🚀 Currently Building With:
-React.js • React Native • Angular • Redux • Remix • Recharts • Spline 3D • Azure • DSA ❤️
+React.js • React Native • Angular • Web3 • Redux • Remix • Recharts • Spline 3D • Azure • DSA ❤️
 
 🧠 Learning & Leveling Up In:
 React Native • JavaScript Mastery • Ant Design • Mapbox • Spline 3D • UI/UX Design • AI/ML
