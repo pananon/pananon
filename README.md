@@ -16,7 +16,7 @@ React • React Native • Angular • JavaScript • Data Structures & Algorith
 📬 Let’s Connect:
 harimangal.pandey@outlook.com
 
-🌐 My Portfolio : https://divinecoded-3d.netlify.app/
+🌐 Website : https://mangalcore.com/
 
 🎭 Fun Fact:
 When I’m not engineering pixels or systems, I’m probably crafting a soul-soaked poem ✍️✨
