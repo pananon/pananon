@@ -1,38 +1,126 @@
-<h1 align="center">Hi 👋, I'm Hari Mangal Pandey</h1>
-<h3 align="center"> FullStack MEA/RN/React Native Developer from Bengaluru, India</h3>
+# Hari Mangal Pandey
 
-🚀 Currently Building With:
-React.js • React Native • Angular • Web3 • Redux • Remix • Recharts • Spline 3D • Azure • DSA ❤️
+Senior Software Engineer focused on building scalable, high-performance frontend systems and cross-platform applications.
 
-🧠 Learning & Leveling Up In:
-React Native • JavaScript Mastery • Ant Design • Mapbox • Spline 3D • UI/UX Design • AI/ML
+I specialize in React, React Native, Angular, and modern web architecture, with hands-on experience delivering enterprise products, leading migrations, and building full-stack products from scratch. My work emphasizes performance, accessibility, maintainability, and pragmatic engineering.
 
-🤝 Open to Collaborations On:
-Spline 3D • Mapbox Integrations • NativeBase UI Magic
+---
 
-💬 Ask Me About:
-React • React Native • Angular • JavaScript • Data Structures & Algorithms
+## About
 
-📬 Let’s Connect:
-harimangal.pandey@outlook.com
+- Senior Software Engineer at TechM (Microsoft engagement)
+- 5+ years in frontend and mobile engineering
+- Experience leading Angular → React migrations at scale
+- Builder of production mobile and web platforms
+- Founder and developer of TatvaFit, a gym management platform in pilot with real customers
+- Strong interest in clean architecture, Web3 interfaces, PWAs, and developer experience
 
-🌐 Website : https://mangalcore.com/
+---
 
-🎭 Fun Fact:
-When I’m not engineering pixels or systems, I’m probably crafting a soul-soaked poem ✍️✨
+## Current Focus
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pananon&" alt="pananon" /></p>
+- Frontend system design and architecture
+- React and React Native performance optimization
+- Cross-platform engineering
+- Accessibility-first UI development (WCAG)
+- Design systems and reusable component libraries
+- Shipping real products end-to-end
 
-<h3 align="left">Connect with me here:</h3>
-<p align="left">
-<a href="https://twitter.com/harimangalp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harimangalp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/harimangal-pandey-14771640/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harimangal-pandey-14771640/" height="30" width="40" /></a>
-<a href="https://medium.com/@harimangalpandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harimangalpandey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/awpologize" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="awpologize" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pandey01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pandey01" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+## Selected Experience
 
+### Senior Software Engineer — TechM (Microsoft)
+*Feb 2024 – Present*
 
+- Led migration of a major web platform from Angular to React.
+- Built PWAs and cross-platform mobile apps with 95% shared codebase.
+- Designed complex UI systems using FluentUI and internal design libraries.
+- Implemented Redux-based state architectures across large feature sets.
+- Drove accessibility initiatives across web applications.
+- Built CI/CD pipelines using Azure DevOps YAML workflows.
+
+### Software Engineer — Kongsberg Digital
+*Jan 2022 – Feb 2024*
+
+- Delivered high-performance React Native and PWA applications.
+- Built native modules in Swift and Kotlin.
+- Optimized rendering and startup times using Flipper and RN debugging tools.
+- Implemented Web3 wallet integrations and smart-contract driven UI flows.
+- Led junior engineers and cross-functional delivery.
+
+### Software Engineer — Newgen
+*Sep 2020 – Jan 2022*
+
+- Built responsive web and mobile platforms.
+- Developed backend services using NestJS and Node.js.
+- Designed REST APIs and integrated PostgreSQL and MongoDB.
+- Focused on reusable UI components and frontend performance.
+
+---
+
+## Projects
+
+### TatvaFit — Gym Management Platform  
+Founder and Lead Developer  
+
+A full-stack mobile application for gym owners to manage memberships, payments, and attendance.
+
+- Built with React Native, TypeScript, Supabase, Expo, Zustand, SQL
+- Designed and implemented the complete system architecture
+- In pilot with 10+ gyms
+- Reduced payment tracking effort by 80%
+- High adoption during early rollout
+
+Landing page: https://tatvafit.mangalcore.com
+
+---
+
+## Technical Stack
+
+**Frontend**
+- React, React Native, Angular, Next.js
+- Redux, RxJS, Zustand
+- Tailwind, Bootstrap, NativeBase
+- D3, Recharts, Mapbox
+
+**Backend**
+- Node.js, NestJS
+- REST APIs
+- PostgreSQL, MongoDB
+
+**Mobile**
+- Expo, React Navigation
+- Native Modules (Swift, Kotlin)
+- AsyncStorage
+
+**Web3**
+- Wallet integrations
+- ethers.js, Web3.js
+- DApp UI architecture
+
+**Tooling**
+- Azure DevOps, GitHub
+- Webpack, Jest, Detox
+- Flipper, RN Debugger
+- Figma
+- Agile, Scrum
+
+---
+
+## Writing
+
+Occasionally share thoughts on engineering, frontend architecture, and product building:
+
+https://mangalcore.com
+
+---
+
+## Contact
+
+- LinkedIn: https://linkedin.com/in/harimangalp
+- Email: contact@mangalcore.com OR harimangal.pandey@outlook.com
+
+---
+
+Building reliable systems. Shipping real products. Optimizing for scale.
